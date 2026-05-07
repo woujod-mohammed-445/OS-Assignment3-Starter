@@ -14,9 +14,9 @@
 > Set sharing to "Anyone with the link can view".
 > Test the link in incognito/private mode before submitting.
 
-**Video Link**: (https://drive.google.com/file/d/1FlUlEV6_A1LhmrBhJnnIyEghVH2bwZrR/view?usp=drive_link)
+**Video Link**: https://drive.google.com/file/d/1FlUlEV6_A1LhmrBhJnnIyEghVH2bwZrR/view?usp=drive_link
 
-**Video filename**: (https://drive.google.com/file/d/1FlUlEV6_A1LhmrBhJnnIyEghVH2bwZrR/view?usp=drive_link)
+**Video filename**: 445052707_assignment3_synchronization.mov
 
 **Verification**:
 - [ ] Link is accessible (tested in incognito mode)
