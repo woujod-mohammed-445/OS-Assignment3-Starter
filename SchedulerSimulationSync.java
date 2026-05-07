@@ -206,7 +206,10 @@ class Process implements Runnable {
             System.out.println(Colors.BRIGHT_GREEN + "  ✓ " + Colors.BOLD + Colors.CYAN + name + 
                               Colors.RESET + Colors.BRIGHT_GREEN + " finished execution!" + Colors.RESET);
             System.out.println();
-        } catch (InterruptedException e) {
+        } finally {
+                SharedResources.cpuSemaphore.release();
+            }
+         catch (InterruptedException e) {
             System.out.println(Colors.RED + "  ✗ " + name + " was interrupted." + Colors.RESET);
         }
     }
