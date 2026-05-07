@@ -315,26 +315,38 @@ In Assignment 1, threads could access variables freely, which could lead to inco
 **Number of commits**: 13 
 
 **Commit messages**: 
-1. 
-2. 
-3. 
-4. 
+
+
+1. Set my student id : 445052707
+2. Add Semaphore and ReentrantLock imports
+3. Implement synchronization with ReentrantLocks
+4. Add semaphore for CPU control and context switch method
+5. Implement locks for thread safety in critical sections add method
+6. Implement CPU semaphore acquisition in run method
+7. Release CPU semaphore in finally block
+8. Implement CPU semaphore acquisition in runToCompletion
+9. Release cpuSemaphore in finally block
+10. Update SchedulerSimulationSync.java
+11. Update ASSIGNMENT_DOCUMENTATION.md
+12. Update GitHub repository URL in documentation
+13. Modify GitHub repository information section
+
 
 ---
 
 ## Summary
 
 **Total time spent on assignment**: 
-
+Approximately 6–7 hours
 **Key takeaways**: 
-1. 
-2. 
-3. 
+1. Synchronization is essential for preventing race conditions in multithreaded programs.
+2. ReentrantLock and Semaphore provide safe and controlled access to shared resources.
+3. Using try-finally blocks is important to prevent deadlocks and ensure locks are always released.
 
 **Most challenging aspect**: 
-
+The most challenging part was understanding where synchronization should be applied without reducing program performance. It was also difficult at first to understand how race conditions happen between threads during concurrent execution.
 **What I'm most proud of**: 
-
+I am most proud of successfully implementing fine-grained locking and semaphore synchronization while keeping the program stable and free from race conditions and exceptions. I also improved my understanding of thread safety and concurrent programming concepts through practical implementation.
 ---
 
 **End of Documentation**
