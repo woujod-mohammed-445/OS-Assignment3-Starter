@@ -14,7 +14,7 @@
 > Set sharing to "Anyone with the link can view".
 > Test the link in incognito/private mode before submitting.
 
-**Video Link**: https://drive.google.com/drive/u/1/folders/1nsTzpO2JMCu09WFeHknsQ7-m7J0nbaYi?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+**Video Link**: (https://drive.google.com/file/d/1FlUlEV6_A1LhmrBhJnnIyEghVH2bwZrR/view?usp=drive_link)
 
 **Video filename**: (https://drive.google.com/file/d/1FlUlEV6_A1LhmrBhJnnIyEghVH2bwZrR/view?usp=drive_link)
 
